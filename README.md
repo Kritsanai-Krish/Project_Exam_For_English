@@ -68,5 +68,3 @@
 
 * **Fonts:** ใช้ 'Kanit' จาก Google Fonts เพื่อความสวยงามและอ่านง่าย
 * **UI Components:** มีการนำส่วนประกอบ UI ที่สวยงามมาจาก [Uiverse.io](https://uiverse.io/) เช่น Input Fields และปุ่มที่มี Animation
-
-หวังว่า `Readme.mb` นี้จะช่วยให้เข้าใจภาพรวมของโปรเจกต์ได้ดียิ่งขึ้นครับ!
